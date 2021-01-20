@@ -21,6 +21,9 @@ const Header = ({onHideNav, onShowNav, showNav, siteTitle}) => (
           <li>
             <Link to='/archive/'>Archív</Link>
           </li>
+          <li>
+            <Link to='https://stefan222.pythonanywhere.com/'>Domov</Link>
+          </li>
         </ul>
       </nav>
     </div>
